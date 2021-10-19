@@ -7,7 +7,10 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "click-outside-vue3": "^4.0.1",
+    "v-click-outside": "^3.1.2",
     "vue": "^3.0.0",
+    "vue-click-outside": "^1.1.0",
     "vue-router": "^4.0.0-0",
     "vuex": "^4.0.0-0"
   },

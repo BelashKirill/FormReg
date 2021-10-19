@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;700&display=swap');
+
+html,
+body {
+    box-sizing: border-box;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+h1 {
+    font-size: 34px;
+    line-height: 44px;
+    color: #2C2738;
+}
+
+.wrap-input {
+    position: relative;
+}
+
+.mess-error {
+    position: absolute;
+    bottom: 5px;
+    left: 0;
+    font-size: 14px;
+    color: #FF7171;
+}
